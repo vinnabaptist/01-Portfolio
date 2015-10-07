@@ -1,0 +1,64 @@
+body {
+	font-family: helvetica;
+	margin-top: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 200px;
+	}
+
+h2 {
+	font-size: 20px;
+	text-align: center;
+	font-weight: 100;
+	}
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+	}
+
+img.center {
+	display: block;
+	margin: 0 auto;
+	}
+
+nav {
+	font-size: 14px;
+	font-weight: 100;
+	color: black;
+	text-align: center;
+	}
+
+img.profile {
+    float: right;
+    margin: 0 30px 10px 10px;
+    width: 20%;
+    }
+
+img.folio {
+    margin: 20px 30px 20px 30px;
+    border: solid #487993;
+    }
+
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+	}
+
+h4 {
+	font-size: 17px;
+	color: #487993;
+	}
+
+h5 {
+	font-size: 15px;
+	font-weight: 200;
+	}
+
+p {
+	font-size:16px;
+	font-weight: 200;
+	line-height: 1.4;
+	}
+
+
